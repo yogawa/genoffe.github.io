@@ -1,0 +1,10 @@
+body {
+    font-family: 'Roboto Slab', serif !important;
+
+}
+
+.slogan {
+    background-color: black;
+    color: white;
+    opacity: 0.5;
+}
